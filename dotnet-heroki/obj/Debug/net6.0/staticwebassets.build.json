@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Zd0tfY9MOzQp5VObzJ2e9/zRL7YpBcOjRUxH7YNc6YI=",
+  "Source": "dotnet-heroki",
+  "BasePath": "_content/dotnet-heroki",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

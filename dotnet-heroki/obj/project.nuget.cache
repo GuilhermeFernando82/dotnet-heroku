@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qk2U7Apaa+RLbkylEUaS4s81TZHq701J6IW7RIwgUbOi72ZOJGNzUohBRxA7+YFOVU0QYDAyhxnzGXIkthEZZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\55419\\Desktop\\CRUD\\dotnet-heroki\\dotnet-heroki\\dotnet-heroki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\55419\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\55419\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\55419\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\55419\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\55419\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\55419\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
